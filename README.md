@@ -1,4 +1,4 @@
-# tvarit
+# tvarit challenge
 
 Our approach:
 
