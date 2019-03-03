@@ -30,8 +30,12 @@ The sensor data for each sensor is aggeregated for one batch by averaging. i.e x
 
 Steps for executing:
 
-1. run problem_1.py (gives accuracy for problem 1)
+1. run data_processing.py file on data.csv file to obtain modelreadyfortraining.pkl file, which will be used to solve the problems.
 
-2. run problem_2.py (gives accuracy for problem 2)
+2. run problem_1.py (gives accuracy for problem 1)
 
-3. run problem_3.py (gives accuracy for problem 3)
+3. run problem_2.py (gives accuracy for problem 2)
+
+4. run problem_3.py (gives accuracy for problem 3)
+
+The accuracy score of all the problems is given in results.md
